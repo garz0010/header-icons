@@ -45,6 +45,6 @@ ul li {
   list-style-type: none;
 }
 
-nav li:nth-child(2) a [
-done;
-]
+nav li:nth-child(2) {
+  background-color: #a63f38;
+}
