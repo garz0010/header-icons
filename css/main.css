@@ -45,4 +45,4 @@ ul li {
   list-style-type: none;
 }
 
-hover('nav li:nth-child(2) a, done);
+hover nav li:nth-child(2) a, done;
