@@ -42,6 +42,6 @@ ul li {
   color: #fff;
   padding: .4rem 0;
   border-bottom-color: #a63f38;
-  text-decoration: none;
+  display: inline-block;
   list-style-type: none;
 }
