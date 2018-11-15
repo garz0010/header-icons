@@ -1,6 +1,6 @@
 html {
   box-sizing: border-box;
-  font-family: 'Merriweather', serif;
+  font-family: Merriweather, serif;
   line-height: 1.5;
 }
 
@@ -15,7 +15,7 @@ body {
 
 ul a:hover {
   background-color: #a63f38;
-  font-family: 'Merriweather', serif;
+  font-family: Merriweather, serif;
 }
 
 header {
@@ -25,7 +25,6 @@ header {
   align-items: center;
   padding: .5em 0;
   border-top-color: #a63f38;
-
 }
 
 h1 {
